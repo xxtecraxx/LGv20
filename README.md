@@ -12,11 +12,11 @@ Post root (assuming TWRP custom recovery already installed)
 
 After fresh install, complete the necessary steps to update Google Play Store.
 Using the Magisk manager, update the manager and then Magisk itself. Install the following modules:
-1) Busybox module
-2) Debloater
-3) F-Droid Privileged Extension
-4) Foxy Boot
-5) Systemless Hosts
+- Busybox module
+- Debloater
+- F-Droid Privileged Extension
+- Foxy Boot
+- Systemless Hosts
 
 Using the Play Store, install the following applications:
 - SSH Server
