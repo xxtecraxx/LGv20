@@ -1,7 +1,7 @@
 # LGv20
-Android LGv20 LS997 root and other
-https://forum.xda-developers.com/v20
-https://forum.xda-developers.com/v20/development/ls997vs995h910-dirtysanta-bootloader-t3519410
+Android LGv20 LS997 root and other housekeeping
+- https://forum.xda-developers.com/v20
+- https://forum.xda-developers.com/v20/development/ls997vs995h910-dirtysanta-bootloader-t3519410
 
 Post root (assuming TWRP custom recovery already installed)
 1) Go to Wipe > Advanced > Check Dalvik, System, Data and Cache > Slide to wipe
